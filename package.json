@@ -1,0 +1,19 @@
+{
+  "name": "express-boutique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fahminbl/express-boutique-app.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fahminbl/express-boutique-app/issues"
+  },
+  "homepage": "https://github.com/fahminbl/express-boutique-app#readme"
+}
